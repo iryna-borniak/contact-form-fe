@@ -1,0 +1,20 @@
+@import url('./fonts/stylesheet.css');
+
+html {
+  font-family: "Apercu Arabic Pro", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  color: #2d2d2d;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;  
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 52px;  
+  color: #3e3e3e;  
+}
