@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/contact-form-fe/static/css/main.697aa564.css",
+    "main.js": "/contact-form-fe/static/js/main.8a1456c0.js",
+    "static/js/787.0e0f1012.chunk.js": "/contact-form-fe/static/js/787.0e0f1012.chunk.js",
+    "static/media/ApercuArabicPro-Regular.eot": "/contact-form-fe/static/media/ApercuArabicPro-Regular.a1fde9b0125a3449357f.eot",
+    "static/media/ApercuArabicPro-Regular.ttf": "/contact-form-fe/static/media/ApercuArabicPro-Regular.d96e62b0b9abc2e551fc.ttf",
+    "static/media/ApercuArabicPro-Medium.eot": "/contact-form-fe/static/media/ApercuArabicPro-Medium.2d13dc61a41b27ff7f44.eot",
+    "static/media/ApercuArabicPro-Light.eot": "/contact-form-fe/static/media/ApercuArabicPro-Light.ebdd063adaa2b9f63e77.eot",
+    "static/media/ApercuArabicPro-Medium.ttf": "/contact-form-fe/static/media/ApercuArabicPro-Medium.daa4faa71b0dacbfcfc1.ttf",
+    "static/media/ApercuArabicPro-Light.ttf": "/contact-form-fe/static/media/ApercuArabicPro-Light.f830de790b08ede1478c.ttf",
+    "static/media/ApercuArabicPro-Bold.eot": "/contact-form-fe/static/media/ApercuArabicPro-Bold.75c853dd8a737b185783.eot",
+    "static/media/ApercuArabicPro-Bold.ttf": "/contact-form-fe/static/media/ApercuArabicPro-Bold.79100e0efd79b5a3ecbb.ttf",
+    "static/media/ApercuArabicPro-Regular.woff": "/contact-form-fe/static/media/ApercuArabicPro-Regular.9e5cfe7ad055bc9bb902.woff",
+    "static/media/ApercuArabicPro-Medium.woff": "/contact-form-fe/static/media/ApercuArabicPro-Medium.6cd52262271665e6e640.woff",
+    "static/media/ApercuArabicPro-Bold.woff": "/contact-form-fe/static/media/ApercuArabicPro-Bold.a908777637bc270d9302.woff",
+    "static/media/ApercuArabicPro-Light.woff": "/contact-form-fe/static/media/ApercuArabicPro-Light.c4b71717a5a027524259.woff",
+    "static/media/ApercuArabicPro-Medium.woff2": "/contact-form-fe/static/media/ApercuArabicPro-Medium.d2bb7b85e5a341d412d9.woff2",
+    "static/media/ApercuArabicPro-Regular.woff2": "/contact-form-fe/static/media/ApercuArabicPro-Regular.9454d41e9c47cdaaa6a2.woff2",
+    "static/media/ApercuArabicPro-Bold.woff2": "/contact-form-fe/static/media/ApercuArabicPro-Bold.2c83a0bf912b01c85c45.woff2",
+    "static/media/ApercuArabicPro-Light.woff2": "/contact-form-fe/static/media/ApercuArabicPro-Light.9394d2363c54e9f5419a.woff2",
+    "static/media/cloud.jpg": "/contact-form-fe/static/media/cloud.f2c17f2f3147dc480472.jpg",
+    "static/media/red_cartoon.svg": "/contact-form-fe/static/media/red_cartoon.86c80a42f0643c0248d0d928a825c92e.svg",
+    "static/media/yellow_cartoon.svg": "/contact-form-fe/static/media/yellow_cartoon.179e57058940ba845986cde83b6c7412.svg",
+    "static/media/goodie.svg": "/contact-form-fe/static/media/goodie.f3192839a60e1b61e981e79b27296124.svg",
+    "static/media/twitter.svg": "/contact-form-fe/static/media/twitter.38f3439d53e76a9e5146cf6cccc68671.svg",
+    "static/media/pinterest.svg": "/contact-form-fe/static/media/pinterest.de56188d3f6ff5f66cb9ec1ea656b8de.svg",
+    "static/media/green_cartoon.svg": "/contact-form-fe/static/media/green_cartoon.399df32776421d98ed8c24f3f6672b15.svg",
+    "index.html": "/contact-form-fe/index.html",
+    "static/media/linkedin.svg": "/contact-form-fe/static/media/linkedin.1df150329a0c4473108773ef2a337aa9.svg",
+    "static/media/facebook.svg": "/contact-form-fe/static/media/facebook.5b690d5484e1eccb17fe56db92c10c81.svg",
+    "main.697aa564.css.map": "/contact-form-fe/static/css/main.697aa564.css.map",
+    "main.8a1456c0.js.map": "/contact-form-fe/static/js/main.8a1456c0.js.map",
+    "787.0e0f1012.chunk.js.map": "/contact-form-fe/static/js/787.0e0f1012.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.697aa564.css",
+    "static/js/main.8a1456c0.js"
+  ]
+}
