@@ -1,6 +1,7 @@
 # Contact Form
 
-[DEMO LINK](https://iryna-borniak.github.io/contact-form-fe/) 
+[BE DEMO LINK](https://contact-form-api-xf7e.onrender.com/contacts) 
+[FE DEMO LINK](https://iryna-borniak.github.io/contact-form-fe/) 
 
 ## Technologies
 

@@ -1,4 +1,4 @@
-const BASE_URL = 'https://contact-form-api-72hy.onrender.com/contacts';
+const BASE_URL = 'https://contact-form-api-xf7e.onrender.com/contacts';
 
 export const postFeedback = async (name, email, message) => {
   const response = await fetch(BASE_URL, {
