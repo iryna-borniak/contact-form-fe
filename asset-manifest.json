@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/contact-form-fe/static/css/main.697aa564.css",
-    "main.js": "/contact-form-fe/static/js/main.8a1456c0.js",
+    "main.js": "/contact-form-fe/static/js/main.20a62991.js",
     "static/js/787.0e0f1012.chunk.js": "/contact-form-fe/static/js/787.0e0f1012.chunk.js",
     "static/media/ApercuArabicPro-Regular.eot": "/contact-form-fe/static/media/ApercuArabicPro-Regular.a1fde9b0125a3449357f.eot",
     "static/media/ApercuArabicPro-Regular.ttf": "/contact-form-fe/static/media/ApercuArabicPro-Regular.d96e62b0b9abc2e551fc.ttf",
@@ -30,11 +30,11 @@
     "static/media/linkedin.svg": "/contact-form-fe/static/media/linkedin.1df150329a0c4473108773ef2a337aa9.svg",
     "static/media/facebook.svg": "/contact-form-fe/static/media/facebook.5b690d5484e1eccb17fe56db92c10c81.svg",
     "main.697aa564.css.map": "/contact-form-fe/static/css/main.697aa564.css.map",
-    "main.8a1456c0.js.map": "/contact-form-fe/static/js/main.8a1456c0.js.map",
+    "main.20a62991.js.map": "/contact-form-fe/static/js/main.20a62991.js.map",
     "787.0e0f1012.chunk.js.map": "/contact-form-fe/static/js/787.0e0f1012.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.697aa564.css",
-    "static/js/main.8a1456c0.js"
+    "static/js/main.20a62991.js"
   ]
 }
